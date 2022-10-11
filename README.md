@@ -1,7 +1,7 @@
 # openBootcampEjerciciosTema3
 Ejercicio numero 1 del tema 3 del curso de Introduccion a la programacion
 
-El enunciado del projecto solicita esto:
+El enunciado del proyecto solicita esto:
 
 Primera parte:
 Crear una función con tres parámetros que sean números que se suman entre sí.
