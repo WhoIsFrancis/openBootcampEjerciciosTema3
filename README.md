@@ -1,0 +1,15 @@
+# openBootcampEjerciciosTema3
+Ejercicio numero 1 del tema 3 del curso de Introduccion a la programacion
+
+El enunciado del projecto solicita esto:
+
+Primera parte:
+Crear una función con tres parámetros que sean números que se suman entre sí.
+Llamar a la función en el main y darle valores.
+
+Segunda parte:
+Crear una clase coche.
+Dentro de la clase coche, una variable numérica que almacene el número de puertas que tiene.
+Una función que incremente el número de puertas que tiene el coche.
+Crear un objeto miCoche en el main y añadirle una puerta.
+Mostrar el número de puertas que tiene el objeto.
